@@ -19,6 +19,7 @@ I put lesser focus on UI and hence it is a very basic UI but it definitely does 
 
 Future Scope: I plan to improve this by adding better UI, larger data put into a vector database, and and ensemble retrieval system for better ranking.
 
+Youtube Link: https://youtu.be/tJDcrdiRgDo
 
 -Siddharth Devulapalli
 
